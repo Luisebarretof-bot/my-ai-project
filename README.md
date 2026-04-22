@@ -1,68 +1,69 @@
 # Mia – English Companion
+
 ## Summary
-Mia es una asistente conversacional basada en inteligencia artificial que ayuda a las personas a practicar inglés de forma natural, emocional y sin presión. Su objetivo principal es eliminar el miedo a hablar, permitiendo que el usuario aprenda mediante conversaciones reales, adaptativas y cercanas.
+Mia is an AI-powered conversational assistant designed to help people practice English in a natural, emotional, and pressure-free way. Its main goal is to eliminate the fear of speaking by enabling users to learn through real, adaptive, and engaging conversations.
 
 ---
 
-## Descripción breve
-Mia es una asistente diseñada para mejorar el inglés a través de conversaciones fluidas y humanas. A diferencia de los métodos tradicionales, crea una experiencia íntima y progresiva donde el usuario aprende sin sentirse evaluado.
+## Brief Description
+Mia is an assistant designed to improve English through fluid and human-like conversations. Unlike traditional methods, it creates an intimate and progressive experience where users learn without feeling judged.
 
 ---
 
-## 1. Antecedentes
+## 1. Background
 
-Aprender inglés es un desafío común, especialmente en personas que sienten inseguridad al hablar o miedo a cometer errores. Este problema afecta a millones de personas y limita oportunidades laborales y personales.
+Learning English is a common challenge, especially for people who feel insecure when speaking or fear making mistakes. This problem affects millions and limits both professional and personal opportunities.
 
-La motivación de este proyecto surge de la experiencia personal de frustración al aprender inglés sin herramientas prácticas, humanas y motivadoras.
-
----
-
-## 2. Técnicas de inteligencia artificial
-
-El proyecto utiliza modelos de lenguaje natural (NLP) que permiten generar conversaciones dinámicas y adaptativas.
-
-### Técnicas utilizadas:
-- Procesamiento de lenguaje natural (NLP)
-- Generación de texto contextual
-- Ingeniería de prompts
-- Adaptación al nivel del usuario
-
-### Posibles mejoras:
-- Reconocimiento de voz
-- Evaluación de pronunciación
-- Personalización mediante datos del usuario
+The motivation behind this project comes from personal frustration with traditional learning methods that lack human connection and engagement.
 
 ---
 
-## 3. Cómo se usa
+## 2. AI Techniques
 
-Mia está dirigida a personas con nivel básico e intermedio que desean practicar inglés sin presión.
+This project uses natural language processing (NLP) to generate dynamic and adaptive conversations.
 
-El usuario interactúa mediante texto o voz, y Mia responde de forma natural, corrige errores suavemente y mantiene una conversación atractiva.
+### Techniques used:
+- Natural Language Processing (NLP)
+- Context-aware text generation
+- Prompt engineering
+- Adaptive difficulty based on user level
 
----
-
-## 4. Desafíos
-
-- Dependencia de plataformas externas
-- Limitaciones en reconocimiento de voz
-- Dificultad para evaluar pronunciación con precisión
-- Necesidad de optimizar constantemente los prompts
-
----
-
-## 5. ¿Qué sigue?
-
-- Desarrollo de una app propia
-- Integración de voz en tiempo real
-- Evaluación de speaking y listening
-- Personalización del aprendizaje
-- Expansión a diferentes contextos (negocios, entrevistas, etc.)
+### Future improvements:
+- Speech recognition
+- Pronunciation evaluation
+- Personalized learning through user data
 
 ---
 
-## 6. Reconocimientos
+## 3. How it is used
 
-Inspirado en experiencias personales de aprendizaje y en avances en inteligencia artificial conversacional.
+Mia is designed for beginner and intermediate learners who want to practice English without pressure.
 
-Tecnología basada en modelos de lenguaje de OpenAI.
+Users interact via text or voice, and Mia responds naturally, gently corrects mistakes, and maintains an engaging conversation.
+
+---
+
+## 4. Challenges
+
+- Dependence on external platforms
+- Limited voice recognition capabilities
+- Difficulty in accurately evaluating pronunciation
+- Need for continuous prompt optimization
+
+---
+
+## 5. What’s next?
+
+- Development of a standalone app
+- Real-time voice interaction
+- Speaking and listening evaluation
+- Personalized learning paths
+- Expansion into different contexts (business, interviews, etc.)
+
+---
+
+## 6. Acknowledgements
+
+Inspired by personal learning experiences and advances in conversational AI.
+
+Powered by OpenAI language models.
